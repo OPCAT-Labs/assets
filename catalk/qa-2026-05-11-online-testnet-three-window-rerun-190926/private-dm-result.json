@@ -1,0 +1,15 @@
+{
+  "runId": "private-dm-mp205n95",
+  "artifactDir": "/Users/aibot/.openclaw/workspace/screenshots/catalk-online-rerun-20260511-190926/private-dm",
+  "privateChannelUrl": "https://chat-testnet.opcatlabs.io/chat/group/e2011704ebd43c438fd5fed8192a19f80b61f2d4a313c391a5cfe3c5173655cci0",
+  "findings": [
+    {
+      "step": "private-group-bob-or-alice-message-visible-to-other-member",
+      "message": "Message \"private group reuse Bob private-dm-mp205n95\" did not appear within 150000ms"
+    },
+    {
+      "step": "dm-alice-bob-direct-message-roundtrip",
+      "message": "Message \"dm alice to bob private-dm-mp205n95\" did not appear within 150000ms"
+    }
+  ]
+}

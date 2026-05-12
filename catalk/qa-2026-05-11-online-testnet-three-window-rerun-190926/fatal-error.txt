@@ -1,0 +1,5 @@
+Error: Message "Alice reused public depth reuse-mp1zsunu" did not appear within 240000ms
+    at waitForMessage (/Users/aibot/.openclaw/github/OPCAT-Labs/catalk/catalk-ui/tests/e2e/integration/fixtures.ts:840:9)
+    at async step.fatal (/Users/aibot/.openclaw/workspace/tmp/catalk-reuse-public-depth.ts:156:5)
+    at async step (/Users/aibot/.openclaw/workspace/tmp/catalk-reuse-public-depth.ts:94:5)
+    at async main (/Users/aibot/.openclaw/workspace/tmp/catalk-reuse-public-depth.ts:150:3)
